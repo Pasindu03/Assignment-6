@@ -1,2 +1,2 @@
-# Assignmnet---6
+# Assignmnet-6
 POS System Design With Bootstrap
